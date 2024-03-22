@@ -1,4 +1,4 @@
-# STUDENT PERFORMANCE PREDICTION USING PREDICTIVE ANALYTICS
+# Projection of Student Performance through Predictive Analytics
 
 ### Outcome:
 
