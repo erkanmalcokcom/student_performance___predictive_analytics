@@ -1,5 +1,10 @@
 # STUDENT PERFORMANCE PREDICTION USING PREDICTIVE ANALYTICS
 
+### Outcome:
+
+Implementing predictive analytics allows schools to take a proactive approach to supporting its students. Early identification of students facing academic or emotional challenges leads to timely interventions, improving educational outcomes and student well-being. Moreover, the school gains insights into broader trends and potential areas for institutional improvement, such as curriculum adjustments or enhanced support services.
+
+In this example non of the data is real, it is just a fictional example of how a school could use predictive analytics to support its students. Due to GDPR and privacy concerns, we cannot provide real data or examples from any specific school.
 
 ## 1 - Data Collection and Pre-processing:
 
@@ -39,9 +44,3 @@ The selected models are deployed in a system accessible to school counsellors an
 ## 6 - Continuous Improvement:
 
 The school establishes a feedback loop where interventions' outcomes are monitored and fed back into the model. This iterative process ensures the model adapts to changing student demographics, teaching strategies, and other variables.
-
-### Outcome:
-
-Implementing predictive analytics allows schools to take a proactive approach to supporting its students. Early identification of students facing academic or emotional challenges leads to timely interventions, improving educational outcomes and student well-being. Moreover, the school gains insights into broader trends and potential areas for institutional improvement, such as curriculum adjustments or enhanced support services.
-
-In this example non of the data is real, it is just a fictional example of how a school could use predictive analytics to support its students. Due to GDPR and privacy concerns, we cannot provide real data or examples from any specific school.
