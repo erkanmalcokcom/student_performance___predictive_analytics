@@ -64,3 +64,6 @@ target/
 
 # VS code
 .vscode
+
+# macOS, Windows, Linux
+.DS_Store
