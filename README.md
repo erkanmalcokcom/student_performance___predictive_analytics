@@ -2,9 +2,9 @@
 
 ### Outcome:
 
-Implementing predictive analytics allows schools to take a proactive approach to supporting its students. Early identification of students facing academic or emotional challenges leads to timely interventions, improving educational outcomes and student well-being. Moreover, the school gains insights into broader trends and potential areas for institutional improvement, such as curriculum adjustments or enhanced support services.
+Implementing predictive analytics allows schools to take a proactive approach to supporting their students. Early identification of students facing academic or emotional challenges leads to timely interventions, improving educational outcomes and student well-being. Moreover, the school gains insights into broader trends and potential areas for institutional improvement, such as curriculum adjustments or enhanced support services.
 
-In this example non of the data is real, it is just a fictional example of how a school could use predictive analytics to support its students. Due to GDPR and privacy concerns, we cannot provide real data or examples from any specific school.
+In this example, none of the data is real; it is just a fictional example of how a school could use predictive analytics to support its students. Due to GDPR and privacy concerns, we cannot provide real data or examples from any specific school.
 
 ## 1 - Data Collection and Pre-processing:
 
